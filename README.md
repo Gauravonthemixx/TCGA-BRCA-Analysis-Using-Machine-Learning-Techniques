@@ -110,7 +110,7 @@ gene_matrix<- assay(tcga_gene, 'unstranded')
   <img width="612" alt="Screenshot 2024-03-18 at 17 20 16" src="https://github.com/Gauravonthemixx/Text-Analytics-of-TED-Talks/assets/91785440/44dc3a62-cbd7-497b-a39e-191eb9e9a891">
 <img width="585" alt="Screenshot 2024-03-18 at 17 19 39" src="https://github.com/Gauravonthemixx/Text-Analytics-of-TED-Talks/assets/91785440/b8f4dc1a-48fd-482b-b509-36850004fa68">
 
-
+## Please Go Through [TCGA_BRCA- Machine learning models- HLD.docx](https://github.com/Gauravonthemixx/Text-Analytics-of-TED-Talks/files/14680993/TCGA_BRCA-.Machine.learning.models-.HLD.docx) for more info. 🔗
 
 
 
