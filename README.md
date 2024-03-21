@@ -14,7 +14,7 @@
 
 * Clinical and gene expression data is prepared using GDC query using TCGAbiolinks package in BCR.Biotab format.
 
-### Preparing Clinical Supplement Datset in R:
+### :pushpin: Preparing Clinical Supplement Datset in R:
 ```
 # Extracting clinical data
 gdcProject<- getGDCprojects()
@@ -34,7 +34,7 @@ clinical.BCRtab.all <- GDCprepare(query)
 
 ```
 
-### Preparing Gene Expression Dataset in R:
+### :pushpin: Preparing Gene Expression Dataset in R:
 ```
 # Extracting Gene Expression Data
 
