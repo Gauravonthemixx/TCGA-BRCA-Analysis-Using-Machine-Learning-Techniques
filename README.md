@@ -7,3 +7,9 @@
 * We have used unsupervised learning methods like clustering on gene expression dataset to find potential patterns in the genomic data. 
 
 * Clusters are used to improve supervised learning models and increase their predictive capabilities.
+
+## ⌛ Dataset:
+
+* To retrieve the data, we have used a R package called TCGAbiolinks. Package is freely and easily accessible in the Bioconductor Project at http://bioconductor.org/packages/TCGAbiolinks.
+
+* Clinical and gene expression data is prepared using GDC query using TCGAbiolinks package in BCR.Biotab format.
