@@ -113,4 +113,5 @@ gene_matrix<- assay(tcga_gene, 'unstranded')
 ## Please Go Through [TCGA_BRCA- Machine learning models- HLD.docx](https://github.com/Gauravonthemixx/Text-Analytics-of-TED-Talks/files/14680993/TCGA_BRCA-.Machine.learning.models-.HLD.docx) for more info. 🔗
 
 
+## 👨🏼‍🏫 Supervised By:- Berthold Lausen https://www.linkedin.com/in/berthold-lausen-89973b3a/?originalSubdomain=uk
 
